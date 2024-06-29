@@ -5,5 +5,5 @@
 + LS1B_LVGL_V8.7z                    是龙芯LVGL v8版本代码，已不使用此工程，但是可以用来学习LVGL的API，使用龙芯IDE写LVGL然后烧录进去看运行效果。
 + RTT_Test_0518_LVGL_HOR.7z          是龙芯RT-Thread操作系统的工程，不适用此工程，但是可以用来学习RT-Thread的API和LVGL的API，使用龙芯IDE写RT-Thread和LVGL任务然后烧录进去看运行效果。
 + RTT_Test_0518_LVGL_HOR_Copy.7z     注意：这是当前的使用的RT-Thread的API和LVGL的工程，在 LS1B_LVGL_V8.7z 工程中有很多代码没有移植进这个工程。
-+ New_RTT_Test.7z                    基于龙芯1B开发板上使用RT-Thread实时操作系统和LVGL图形库，创建了UI界面，并使用了RT-Thread的邮箱机制，在UI中按下按键产生回调，给邮箱发送值，其他线程通过判断邮箱存储的值进行创建或运行任务。
++ New_RTT_Test.7z                    基于龙芯1B开发板上使用RT-Thread实时操作系统和LVGL图形库，创建了UI界面，并使用了RT-Thread的邮箱机制，在UI中按下按键产生回调，给邮箱发送值，其他线程通过判断邮箱存储的值进行创建或运行任务。  
 **注意：直接解压，不要直接使用鼠标拖动到桌面上，直接拖动是复制，工程内有很长的路径是无法复制的！！！**
